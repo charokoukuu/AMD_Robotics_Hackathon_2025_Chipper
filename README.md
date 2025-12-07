@@ -1,6 +1,7 @@
 # 作品タイトル: Chipper
 
-動画リンク: https://youtu.be/zqYf5DXUAcI
+## 動画リンク / Movie URL: https://youtu.be/zqYf5DXUAcI
+
 ![icon](images/icon.png)
 
 # 説明 / Description
